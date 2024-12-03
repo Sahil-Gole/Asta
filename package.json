@@ -1,29 +1,14 @@
 {
-    "name": "evanto-event-management",
-    "version": "1.0.0",
-    "description": "An event management platform for organizing events based on client requests.",
-    "main": "index.js",
-    "scripts": {
-      "start": "node index.js",
-      "build": "npm run build", 
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-      "event",
-      "management",
-      "platform"
-    ],
-    "author": "Your Name",
-    "license": "MIT",
-    "dependencies": {
-      "express": "^4.17.1", 
-      "react": "^18.0.0", 
-      "react-dom": "^18.0.0",
-      "axios": "^0.27.2"
-    },
-    "devDependencies": {
-      "webpack": "^5.58.2",
-      "babel-loader": "^8.2.2"
-    }
-  }
-  
+  "name": "event-management-system",
+  "version": "1.0.0",
+  "description": "Frontend Event Management System",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step for static site'",
+    "start": "echo 'No start script needed for static site'"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
